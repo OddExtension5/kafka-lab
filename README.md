@@ -13,7 +13,7 @@ It was a part of LIVE ONLINE TRAINING on O`REILLY platform in [Kafka FUndamental
 
 ## Projects:
 
-1. Hearbeat Monitoring System
+1. Heartbeat Monitoring System
 2. Car Position Monitoring System using Kafka Streams
 3. Car Position Monitoring System using Spark
 
