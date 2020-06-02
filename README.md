@@ -1,7 +1,7 @@
 # Kafka Lab's
-      --- A hands-on course in mastering Kafka at scale 
+      ---- A hands-on course in mastering Kafka at scale 
       
-It was a part of LIVE ONLINE TRAINING on O`REILLY platform in [Kafka FUndamentals](https://learning.oreilly.com/live-training/courses/kafka-fundamentals/0636920385295/) by PETTER GRAFF.
+It was a part of LIVE ONLINE TRAINING on O`REILLY platform in [Kafka Fundamentals](https://learning.oreilly.com/live-training/courses/kafka-fundamentals/0636920385295/) by PETTER GRAFF.
 
 ## Labs:
 
@@ -13,9 +13,9 @@ It was a part of LIVE ONLINE TRAINING on O`REILLY platform in [Kafka FUndamental
 
 ## Projects:
 
-1. Heartbeat Monitoring System
-2. Car Position Monitoring System using Kafka Streams
-3. Car Position Monitoring System using Spark
+1. **Heartbeat Monitoring System**
+2. **Car Position Monitoring System using Kafka Streams**
+3. **Car Position Monitoring System using Spark**
 
 
 ## Requirements:
@@ -26,6 +26,7 @@ It was a part of LIVE ONLINE TRAINING on O`REILLY platform in [Kafka FUndamental
 
 And everything related to Kafka like Zookepper & Kafka will be setup automatically in docker environment after running docker-compose file.
 
+For installation check follow **Hello World in Kafka Lab**
 
 ## References:
 
