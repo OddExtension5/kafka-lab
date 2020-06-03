@@ -13,6 +13,13 @@ In this lab, you will install Kafka with Docker and verify it is working by crea
 
 One of the easiest way to get started with Kafka is through the use of [Docker](https://www.docker.com). Docker allows the deployment of applications inside software containers which are self-contained execution environments with their own isolated CPU, memory, and network resources. [Install Docker by following the directions appropriate for your operating system.](https://www.docker.com/products/overview) Make sure that you can run both the `docker` and `docker-compose` command from the terminal.
 
+## Setup
+
+[Part #1](https://i.imgur.com/LdpLIHp.gifv)
+
+[Part #2](https://i.imgur.com/Kv0uIGE.gifv)
+
+
 ## Instructions
 
 1. Open a terminal in this lab directory: `labs/01-Verify-Installation`.
