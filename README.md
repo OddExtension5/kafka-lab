@@ -5,7 +5,7 @@ It was a part of LIVE ONLINE TRAINING on O`REILLY platform in [Kafka Fundamental
 
 ## Labs:
 
-1. Hello World in Kafka
+1. [Hello World in Kafka](https://github.com/OddExtension5/kafka-lab/tree/master/1.HelloWorld)
 2. Java based Producer and Consumer of Kafka messages
 3. Word count using Kafka Streams
 4. Word count using Spark
@@ -13,9 +13,9 @@ It was a part of LIVE ONLINE TRAINING on O`REILLY platform in [Kafka Fundamental
 
 ## Projects:
 
-1. **Heartbeat Monitoring System**
-2. **Car Position Monitoring System using Kafka Streams**
-3. **Car Position Monitoring System using Spark**
+1. [**Heartbeat Monitoring System**](https://github.com/OddExtension5/heartbeat-monitoring-system)
+2. **Vehicle Location Monitoring System using Kafka Streams**
+3. **Vehicle Location Monitoring System using Spark**
 
 
 ## Requirements:
@@ -26,7 +26,7 @@ It was a part of LIVE ONLINE TRAINING on O`REILLY platform in [Kafka Fundamental
 
 And everything related to Kafka like Zookepper & Kafka will be setup automatically in docker environment after running docker-compose file.
 
-For installation check follow **Hello World in Kafka Lab**
+For installation check follow [**Hello World in Kafka Lab**](https://github.com/OddExtension5/heartbeat-monitoring-system)
 
 ## References:
 
